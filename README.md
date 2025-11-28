@@ -5,6 +5,8 @@ The system has been built with a horizontally scalable architecture, enabling it
 
 During the development of this project, we set out to explain, demonstrate, and document every technical step using tools such as Python, ETL processes, Pandas, and Looker Studio, ensuring that the system meets, functions, and adapts to the real needs of the educational environment. With SIGEI, we aim to deliver a reliable, intuitive, and efficient platform that contributes to a more organized and modern early-education system.
 
+Our project presents the following modules and components:
+
 ## 1. Student and Tutor Management
 
 ### **Imperatives**
