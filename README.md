@@ -1,4 +1,9 @@
-# Imperatives & Should — PRS System (Academic Style)
+# Imperatives & Should — PRS System 
+Our project presents SIGEI, a system designed to modernize the educational management of public preschool institutions that serve children aged 3 to 5. From the beginning, we aimed to create a platform that truly supports principals, teachers, and administrative staff, so we had to analyze, organize, and transform the processes that are still handled manually. SIGEI not only centralizes academic and administrative information; it also allows users to visualize, control, and optimize daily tasks within each institution.
+
+The system has been built with a horizontally scalable architecture, enabling it to grow, adapt, and operate across multiple schools without losing performance. In addition, SIGEI should provide clear, accessible, and real-time information so that school staff should be able to make informed decisions, should manage enrollment, attendance, and student progress easily, and should improve institutional coordination from a single dashboard.
+
+During the development of this project, we set out to explain, demonstrate, and document every technical step using tools such as Python, ETL processes, Pandas, and Looker Studio, ensuring that the system meets, functions, and adapts to the real needs of the educational environment. With SIGEI, we aim to deliver a reliable, intuitive, and efficient platform that contributes to a more organized and modern early-education system.
 
 ## 1. Student and Tutor Management
 
